@@ -1,2 +1,2 @@
 # go-phrasebook-code
-Code written while reading "Go Programming Language Phrasebook"
+Code based on the code snippets in "Go Programming Language Phrasebook"
